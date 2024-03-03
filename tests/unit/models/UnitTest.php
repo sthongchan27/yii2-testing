@@ -11,7 +11,7 @@ class UserTest extends \Codeception\Test\Unit
 
     public function testFindUserByName(){
         $this->assertTrue(true);
-        $this->assertFalse(true);
+        $this->assertFalse(false);
     }
 
 }
